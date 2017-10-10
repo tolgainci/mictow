@@ -9,7 +9,7 @@ The program is basically a modified version of [.NET Voice Recorder](https://git
 ## Installation
 
 
-Download [mictow_setup.exe](http://www.tolgainci.com.tr) and install.
+Download [mictow_setup.exe](http://tolgainci.com.tr/mictow/mictow_setup.exe) and install.
 
 
 ## Usage
